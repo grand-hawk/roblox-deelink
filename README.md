@@ -10,5 +10,5 @@ Query parameters:
   placeId: string,
   jobId: string?,
   gameId: string? // same as `jobId`
-};
+}
 ```
