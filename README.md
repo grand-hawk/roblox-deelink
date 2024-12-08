@@ -1,6 +1,6 @@
 # Roblox Deeplink
 
-Basic web page that launches Roblox' external handler for deeplinks
+Basic web page that launches Roblox' external handler for deeplinks.
 Dockerfile uses [nginx](https://nginx.org/en/).
 
 Query parameters:
